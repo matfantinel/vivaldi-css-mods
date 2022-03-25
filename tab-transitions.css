@@ -1,0 +1,6 @@
+#browser.tabs-top #header {
+  transition: background-color 0.5s, border-color 0.5s;
+}
+.color-behind-tabs-on #tabs-subcontainer.top {
+  transition: background-color 0.5s, border-color 0.5s;
+}

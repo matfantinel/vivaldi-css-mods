@@ -1,0 +1,25 @@
+.window-minimize {
+  display: none;
+}
+
+.window-maximize {
+  display: none;
+}
+
+.window-close {
+  border-radius: 100%;
+  height: 24px !important;
+}
+
+/* Positioning */
+#browser.linux .window-buttongroup {
+  right: 10px !important;
+}
+
+#browser.linux.maximized .window-buttongroup {
+  top: 3px !important;  
+}
+
+#browser.linux.normal .window-buttongroup {
+  top: 9px !important;
+}

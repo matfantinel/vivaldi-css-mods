@@ -1,0 +1,9 @@
+.UrlBar-AddressField {
+  max-width: min(100%, 600px);
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.UrlField {
+  justify-content: center;
+}
