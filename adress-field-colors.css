@@ -40,3 +40,7 @@ icons for blocked content and the bookmark button in the addressfield.
 .permission-denied path {
   fill: var(--colorHighlightFg);
 }
+
+.UrlBar-AddressField {
+  border-color: var(--colorAccentBg) !important;
+}
